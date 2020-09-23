@@ -8,7 +8,8 @@ class GoalCard extends StatelessWidget {
   final Icon icon;
   final bool isFilled;
 
-  const GoalCard({Key key, this.title, this.subtitle, this.icon, this.isFilled})
+  const GoalCard(
+      {Key key, this.title, this.subtitle, this.icon, this.isFilled = false})
       : super(key: key);
 
   @override

@@ -28,6 +28,10 @@ class GoalsPage extends StatelessWidget {
                 .center
                 .makeCentered()
                 .py8(),
+            TextField(
+              key: ValueKey("tf1"),
+              decoration: InputDecoration(hintText: "Enter some data"),
+            ),
             GoalCard(
               title: "HIILT",
               subtitle: "Lose Weight",

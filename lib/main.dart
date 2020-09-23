@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:fplproject/coolors.dart';
-import 'package:fplproject/goals_page.dart';
+import 'package:fplproject/pages/colortest_page.dart';
+import 'package:fplproject/pages/goals_page.dart';
 
 void main() {
   runApp(MyApp());
