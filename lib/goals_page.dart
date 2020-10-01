@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:fplproject/coolors.dart';
-import 'package:fplproject/widgets/goal_card.dart';
+import 'coolors.dart';
+import 'widgets/goal_card.dart';
 import 'package:velocity_x/velocity_x.dart';
 
 class GoalsPage extends StatelessWidget {
