@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:fplproject/coolors.dart';
+import 'coolors.dart';
 import 'package:fplproject/goals_page.dart';
 
 void main() {
